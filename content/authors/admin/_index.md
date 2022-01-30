@@ -1,6 +1,7 @@
 ---
 title: Muhammad kashif
 role: Lecturer of Computer Science; Research Assistant at AIDA Lab
+avatar_filename: avatar.jpg.png
 bio: ""
 interests:
   - Artificial Intelligence
