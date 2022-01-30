@@ -1,8 +1,7 @@
 ---
 title: Muhammad kashif
-role: Lecturer of Computer Science; Research Assistant
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Lecturer of Computer Science; Research Assistant at AIDA Lab
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
